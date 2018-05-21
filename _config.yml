@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 show_downloads: true
-is_project_page: true
+github:
+  is_project_page: true
