@@ -1,12 +1,16 @@
 # Maize Yield Data
 ## Projected maize yield and yield variability under 2 and 4 dgC global warming
 
+
 Michelle Tigchelaar
+
 Data updated: January 23, 2018
+
 
 ## What is it?
 
 Data of maize yield variability from Tigchelaar et al. (2018) Future warming increases probability of globally synchronized maize production shocks. PNAS.
+
 
 ### See [Tigchelaar et al. (2018)] for full description of methods.
 
