@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+title: Maize yield projections
+description: Download page for maize yield projections under global warming
 show_downloads: true
-github:
-  is_project_page: true
+google_analytics:
+theme: jekyll-theme-tactile
